@@ -5,3 +5,5 @@ Tiger
 Dog
 Wolf
 Rabbit
+Cat
+Mouse
